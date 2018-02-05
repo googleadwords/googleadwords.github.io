@@ -1761,6 +1761,8 @@ body {
   letter-spacing: 1rem;
 }
 .cid-qId3FDQlSO {
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 @media (min-width: 992px) {
@@ -2265,20 +2267,6 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
-}
-.cid-qIOnYKPbMF {
-  background-image: url("../../../assets/images/background1.jpg");
-}
-.cid-qIOnYKPbMF h1 {
-  color: #616161;
-}
-.cid-qIOnYKPbMF h2,
-.cid-qIOnYKPbMF h3,
-.cid-qIOnYKPbMF p {
-  color: #767676;
-}
-.cid-qIOnYKPbMF .mbr-section-subtitle {
-  font-style: italic;
 }
 .cid-qHLH35JCdx .navbar {
   background: #4885ed;
