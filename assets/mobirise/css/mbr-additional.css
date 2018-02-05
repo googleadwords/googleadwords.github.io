@@ -1761,13 +1761,18 @@ body {
   letter-spacing: 1rem;
 }
 .cid-qIOyLclaAL {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #cccccc;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qIOyLclaAL .media-container-row {
+  flex-direction: row-reverse;
 }
 @media (min-width: 992px) {
   .cid-qIOyLclaAL .mbr-figure {
     padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
