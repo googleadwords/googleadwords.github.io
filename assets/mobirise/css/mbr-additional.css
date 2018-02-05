@@ -1765,9 +1765,14 @@ body {
   padding-bottom: 0px;
   background-color: #ffffff;
 }
+.cid-qId3FDQlSO .media-container-row {
+  flex-direction: row-reverse;
+}
 @media (min-width: 992px) {
   .cid-qId3FDQlSO .mbr-figure {
     padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
