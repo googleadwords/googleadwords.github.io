@@ -1785,11 +1785,14 @@ body {
   color: #4885ed;
 }
 .cid-qIOCUmiqPf H1 {
-  color: #4885ed;
+  color: #3cba54;
 }
 .cid-qIOCUmiqPf .mbr-text,
 .cid-qIOCUmiqPf .mbr-section-btn B {
   color: #767676;
+}
+.cid-qIOCUmiqPf B {
+  color: #3cba54;
 }
 .cid-qId7mOvbVw {
   padding-top: 90px;
@@ -2669,6 +2672,29 @@ body {
 }
 .cid-qIiqr0aVpm .mbr-author-desc I {
   color: #f4c20d;
+}
+.cid-qISq2gky5Q {
+  background: #ffffff;
+}
+.cid-qISq2gky5Q .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-qISq2gky5Q .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qISq2gky5Q figcaption {
+  position: relative;
+}
+.cid-qISq2gky5Q figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qISq2gky5Q .image-block {
+    width: 100% !important;
+  }
 }
 .cid-qHLH35JCdx .navbar {
   background: #f4c20d;
